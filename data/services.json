@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Conception projets digitaux",
+			"description" : "Phase avant-vente | Cahier des charges | Wireframes | Spécifications fonctionnelles | Recette | Déploiement | Veille techno. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Coordination & gestion du planning",
+			"description" : "Coordination des équipes graphiques/techniques | Anticipation des besoins de ressources | Organisation de la production. "
+		}
+	]
+}

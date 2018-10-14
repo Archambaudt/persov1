@@ -1,0 +1,10 @@
+{
+	"title" : "Compétences",
+	"skills" : {
+		"Dynamique | Curieux | À l'écoute des besoins, anticipation & autonomie" : "100",
+		"R&D logiciel Sass | Framework front-end" : "70",
+		"Management des équipes internes/prestataires" : "80",
+		"Cahier des charges | Spécifications fonctionnelles | Recettes & déploiements" : "90",
+		"Gestion du planning global de production" : "90"
+	}
+}
