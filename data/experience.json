@@ -1,35 +1,35 @@
 {
-	"title" : "Experience",
+	"title" : "Expérience",
 	"experience" : [
 		{
-			"timeperiod" : "February 2016 - Today",
+			"timeperiod" : "Fév 2016 - Aujourd'hui",
 			"company" : "L'Oréal Group (Stim Media agency)",
-			"description" : "Leading planning, managing designers & developers. R&D on Sass intern solution, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Leading planning | Managing designers & developers | R&D on Sass intern solution. "
 		},
 		{
-			"timeperiod" : "Aug 2015 - Dec 2015",
+			"timeperiod" : "Août 2015 - Déc 2015",
 			"company" : "Gulfstream Communication",
-			"description" : "Gestion de projet web, Analyse & suivi des KPIs, UI/UX, Rédaction de contenu, Spécifications fonctionnelles & recette. "
+			"description" : "Gestion de projet web | Analyse & suivi des KPIs, UI/UX | Rédaction de contenu | Spécifications fonctionnelles & recette. "
 		},
 		{
-			"timeperiod" : "July 2014 - Jun 2015",
+			"timeperiod" : "Juil 2014 - Juin 2015",
 			"company" : "Entrecom",
-			"description" : "Gestion de projet web, Rédaction de contenu, Stratégie éditoriale, UI/UX, Spécifications fonctionnelles & recette. "
+			"description" : "Gestion de projet web | Rédaction de contenu | Stratégie éditoriale | UI/UX | Spécifications fonctionnelles & recette. "
 		},
 		{
-			"timeperiod" : "Oct 2013 - Jul 2014",
+			"timeperiod" : "Oct 2013 - Juil 2014",
 			"company" : "Spintank",
-			"description" : "Gestion de projet web, Rédaction de contenu, Stratégie éditoriale, UI/UX, Spécifications fonctionnelles & recette. "
+			"description" : "Gestion de projet web | Rédaction de contenu | Stratégie éditoriale | UI/UX | Spécifications fonctionnelles & recette. "
 		},
 		{
-			"timeperiod" : "Apr 2013 - Sept 2013",
+			"timeperiod" : "Avr 2013 - Sept 2013",
 			"company" : "Mozoo",
-			"description" : "Organisation de campagnes d'acquisition, Rédaction d'articles, CRM & support application mobile via back-office interne. "
+			"description" : "Organisation de campagnes d'acquisition | Rédaction d'articles | CRM & support application mobile via back-office interne. "
 		},
 						{
-			"timeperiod" : "May 2012 - Sept 2012",
+			"timeperiod" : "Mai 2012 - Sept 2012",
 			"company" : "Event Premiere Inc.",
-			"description" : "Refonte site de l'entreprise, SEO, Rédaction de contenu, Organisation d'évènements. "
+			"description" : "Refonte site de l'entreprise | SEO | Rédaction de contenu | Organisation d'évènements. "
 		}
 	]
 } 
