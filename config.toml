@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Thomas Archambaud - Digital Project Manager"
+description = "Working with Thomas"
+metadescription = "Thomas, 27 yo with 5+ years experience as Digital Project Manager!"
+author = "THOMAS_ARCHAMBAUD"
+theme = "hugo-uilite"
