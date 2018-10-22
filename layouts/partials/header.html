@@ -31,6 +31,8 @@
 	<!-- Meta tags -->
 	<meta name="author" content="{{ $config.author }}">
 	<meta name="theme-color" content="#000000">
+	<meta itemprop="name" content="{{ .Title }}">
+	<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
 
 	{{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
