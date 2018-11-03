@@ -1,5 +1,5 @@
-html {
-  overflow: hidden;
+html{
+  overflow-x: scroll; 
 }
 a:hover {
   text-decoration: none;
