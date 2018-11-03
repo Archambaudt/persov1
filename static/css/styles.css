@@ -1,5 +1,6 @@
 html{
-  overflow-x: scroll; 
+  overflow-x: scroll;
+  overflow-y:hidden;
 }
 a:hover {
   text-decoration: none;
