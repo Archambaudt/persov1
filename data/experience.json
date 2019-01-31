@@ -2,6 +2,11 @@
 	"title" : "Expériences",
 	"experience" : [
 		{
+			"timeperiod" : "Janv 2019 - Aujourd'hui",
+			"company" : "MesDocteurs.com",
+			"description" : "Conception produit | Tech | Santé | SAAS"
+		},
+		{
 			"timeperiod" : "Fév 2016 - Déc 2018",
 			"company" : "Groupe L'Oréal (Agence Stim Media)",
 			"description" : "Gestion du planning de l'agence | Management des équipes de designers & dévelopeurs | Product Management SAAS sous Ruby"
