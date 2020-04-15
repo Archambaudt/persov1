@@ -3,13 +3,13 @@
 	"services" : [
 		{
 			"icon" : "pencil-ruler",
-			"title" : "Conception de projets digitaux",
-			"description" : "Relation client | Cahier des charges | Wireframes | Spécifications fonctionnelles | Recette | Déploiement | Veille techno. "
+			"title" : "Conception produit",
+			"description" : "Produit SAAS | Roadmap Macro | Découpage features | User stories | Specs | QA"
 		},
 		{
 			"icon" : "pen-nib",
 			"title" : "Coordination & Management",
-			"description" : "Coordination d'équipes graphiques/techniques | Anticipation des besoins en ressources | Gestion retroplanning de production. "
+			"description" : "Création de process | Recrutement - organisation des équipes design & tech | Communication transverse"
 		}
 	]
 }
