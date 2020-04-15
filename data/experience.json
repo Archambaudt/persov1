@@ -4,37 +4,42 @@
 		{
 			"timeperiod" : "Janv 2019 - Aujourd'hui",
 			"company" : "MesDocteurs.com",
-			"description" : "Conception produit | Tech | Santé | SAAS"
+			"description" : "Senior Product Manager | Santé | Tech"
 		},
 		{
 			"timeperiod" : "Fév 2016 - Déc 2018",
-			"company" : "Groupe L'Oréal (Agence Stim Media)",
-			"description" : "Gestion du planning de l'agence | Management des équipes de designers & dévelopeurs | Product Management SAAS sous Ruby"
+			"company" : "Stim Media pour L'Oréal",
+			"description" : "Head of product Ops | Tech | Luxe"
+		},
+		{
+			"timeperiod" : "Oct 2014 - Dec 2018",
+			"company" : "thomasarchambaud.com",
+			"description": "Entrepreneur indépendant | Gestion de projets web"
 		},
 		{
 			"timeperiod" : "Août 2015 - Déc 2015",
 			"company" : "Gulfstream Communication",
-			"description" : "Gestion de projet web | Analyse & suivi des KPIs, UI/UX | Rédaction de contenu | Spécifications fonctionnelles & recette. "
+			"description" : "Chef de projet digital | E-commerce | Industrie"
 		},
 		{
 			"timeperiod" : "Juil 2014 - Juin 2015",
 			"company" : "Entrecom",
-			"description" : "Gestion de projet web | Rédaction de contenu | Stratégie éditoriale | UI/UX | Spécifications fonctionnelles & recette. "
+			"description" : " Chef de projet digital | B2B | B2C"
 		},
 		{
 			"timeperiod" : "Oct 2013 - Juil 2014",
 			"company" : "Spintank",
-			"description" : "Gestion de projet web | Rédaction de contenu | Stratégie éditoriale | UI/UX | Spécifications fonctionnelles & recette. "
+			"description" : "Consultant Digital | Média | Institutionnel"
 		},
 		{
 			"timeperiod" : "Avr 2013 - Sept 2013",
 			"company" : "Mozoo",
-			"description" : "Organisation de campagnes d'acquisition | Rédaction d'articles | CRM d'une application mobile via back-office interne. "
+			"description" : "Chef de projet web & mobile | Média | Tech"
 		},
-						{
+		{
 			"timeperiod" : "Mai 2012 - Sept 2012",
 			"company" : "Event Premiere Inc.",
-			"description" : "Refonte site de l'entreprise | SEO | Rédaction de contenu | Organisation d'évènements. "
+			"description" : "Chef de projet web | Évènementiel | B2C"
 		}
 	]
 } 
