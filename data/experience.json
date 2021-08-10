@@ -4,22 +4,22 @@
 		{
 			"timeperiod" : "Janv 2019 - Aujourd'hui",
 			"company" : "MesDocteurs.com",
-			"description" : "Lead Product Manager | Santé | Tech"
+			"description" : "Lead Product Manager | Santé | SAAS"
 		},
 		{
 			"timeperiod" : "Fév 2016 - Déc 2018",
 			"company" : "Stim Media pour L'Oréal",
-			"description" : "Head of product | Tech | Luxe"
+			"description" : "Head of product | SAAS | Luxe"
 		},
 		{
 			"timeperiod" : "Oct 2014 - Dec 2018",
 			"company" : "Indépendant",
-			"description": "Entrepreneur indépendant | Gestion de projets web"
+			"description": "Entrepreneur indépendant | Product Management"
 		},
 		{
 			"timeperiod" : "Août 2015 - Déc 2015",
 			"company" : "Gulfstream Communication",
-			"description" : "Chef de projet digital | E-commerce | Industrie"
+			"description" : "Chef de projet digital | E-commerce | Webmarketing"
 		},
 		{
 			"timeperiod" : "Juil 2014 - Juin 2015",
@@ -30,16 +30,6 @@
 			"timeperiod" : "Oct 2013 - Juil 2014",
 			"company" : "Spintank",
 			"description" : "Consultant Digital | Média | Institutionnel"
-		},
-		{
-			"timeperiod" : "Avr 2013 - Sept 2013",
-			"company" : "Mozoo",
-			"description" : "Chef de projet web & mobile | Média | Tech"
-		},
-		{
-			"timeperiod" : "Mai 2012 - Sept 2012",
-			"company" : "Event Premiere Inc.",
-			"description" : "Chef de projet web | Évènementiel | B2C"
 		}
 	]
 } 

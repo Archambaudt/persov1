@@ -1,9 +1,9 @@
 {
 	"title" : "Compétences",
 	"skills" : {
-		"Méthodologie Agile-Kanban | Product Roadmap | Veille stratégique" : "90",
-		"R&D logiciel SAAS | R&D framework front-end" : "70",
-		"Recrutement & management d'équipes graphiques & techniques" : "80",
-		"Cahier des charges | Spécifications fonctionnelles | Recettes & déploiements" : "90"
+		"Développement SAAS B2B & B2C | Applications mobiles" : "",
+		"Management transverse et recrutement de profils produit et tech" : "",
+		"Création et scalling des méthodes et processus internes" : "",
+		"Product Roadmap | User research | Specs fonctionnelles & QA" : ""
 	}
 }
