@@ -1,8 +1,13 @@
 {
 	"title" : "Expériences",
 	"experience" : [
+				{
+			"timeperiod" : "Janv 2022 - Aujourd'hui",
+			"company" : "Leeto.co",
+			"description" : "Growth Product Manager | Bien-être | SAAS / Mobile"
+		},
 		{
-			"timeperiod" : "Janv 2019 - Aujourd'hui",
+			"timeperiod" : "Janv 2019 - Décembre 2021",
 			"company" : "MesDocteurs.com",
 			"description" : "Lead Product Manager | Santé | SAAS"
 		},
