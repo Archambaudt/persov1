@@ -1,15 +1,15 @@
 {
-	"title" : "Services",
+	"title" : "s",
 	"services" : [
 		{
 			"icon" : "pencil-ruler",
-			"title" : "Conception produit",
-			"description" : "Produit SAAS | Roadmap Macro | Découpage features | User stories | Specs | QA"
+			"title" : "Product Management",
+			"description" : "Produit SAAS & apps mobiles | Product Led Growth vision | Discovery | Delivery"
 		},
 		{
 			"icon" : "pen-nib",
-			"title" : "Structuration et Management des équipes",
-			"description" : "Création de process | Recrutement - organisation des équipes design & tech | Communication transverse"
+			"title" : "Organisation / Structuration team produit",
+			"description" : "Recrutement | Scaling des processus et organisation interne | Management"
 		}
 	]
 }
